@@ -5,4 +5,5 @@ Kimaye is a global consumer brand for INL Farms meeting global standards of food
 
 
 
-Kimaye-https://kimaye007.netlify.app/
+Deploy Link-https://kimaye007.netlify.app/
+Blog Link -https://medium.com/@ppalniraj1996/kimaye-com-clone-3b4987e2e754
